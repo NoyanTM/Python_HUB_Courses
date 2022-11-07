@@ -15,3 +15,7 @@ The program is aimed at improving the learning environment and providing quality
 Finding the necessary courses takes a lot of time, which complicates the student's learning process, an e-commerce website can solve this problem. 
 
 The user can view the courses, add them to the cart and make a purchase.
+
+https://github.com/NoyanTM/Python_HUB_Courses/raw/test/1.png
+
+https://github.com/NoyanTM/Python_HUB_Courses/raw/test/2.png
